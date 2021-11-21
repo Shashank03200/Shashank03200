@@ -16,7 +16,7 @@
         <li>⚡ Fun fact: I talk to myself a lot</li>
     </ul>
     <div>
-    <img src="/working.gif">
+    <img src="/working.gif" width="400" height"280"> 
 
 </div>
 
