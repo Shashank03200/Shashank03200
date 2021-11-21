@@ -27,5 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank032000&show_icons=true&locale=en&layout=compact" alt="shashank032000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank032000&show_icons=true&locale=en" alt="shashank032000" /></p>
-
-[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank03200)](https://github.com/anuraghazra/github-readme-stats)
+[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank03200&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
