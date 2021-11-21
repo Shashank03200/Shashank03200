@@ -2,6 +2,7 @@
 <h2>I am Shashank Mishra</h2>
 
 <p>I am a full stack developer who also likes to solve problems</p>
+
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
 ![](https://www.codechef.com/users/sm_03200/)
 
@@ -16,7 +17,7 @@
         <li>⚡ Fun fact: I talk to myself a lot</li>
     </ul>
     <div>
-    <img src="/working.gif" width="400" height"280"> 
+    <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="400">
 
 </div>
 
