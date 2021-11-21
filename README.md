@@ -1,7 +1,7 @@
 <h4> Hi there 👋 </h4>
 <h2>I am Shashank Mishra</h2>
 
-<b>I am a full stack developer who also likes to solve problems</b>
+<p>I am a full stack developer who also likes to solve problems</p>
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
 ![](https://www.codechef.com/users/sm_03200/)
 
