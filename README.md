@@ -15,7 +15,7 @@
         <li>💬 Ask me about Backend Web Development</li>
         <li>📫 How to reach me: shashank032000@gmail.com</li>
         <li>⚡ Fun fact: I talk to myself a lot</li>
-        <li>💡 Find my projects at: https://portfolioshashank.web.app </li>
+        <li>💡 Find my projects at: https://portolfio-shashank.vercel.app/ </li>
     </ul>
     <div>
     <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="400" align="right">
