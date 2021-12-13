@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
 ![](https://www.codechef.com/users/sm_03200/)
 
-<div style="display:grid;grid-template-columns: repeat(auto-fill, 400px);grid-gap:30px ">
+<div style="display:flex">
     <ul>
         <li>🔭 I’m currently working on React Instagram Clone</li>
         <li>🌱 I’m currently learning React.js</li>
