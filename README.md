@@ -19,7 +19,7 @@
     </ul>
     <div>
     <div>
-        <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif">
+        <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="300">
         </div>
 
 </div>
