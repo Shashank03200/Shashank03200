@@ -18,7 +18,7 @@
         <li>💡 Find my projects at: https://portolfio-shashank.vercel.app/ </li>
     </ul>
     <div>
-    <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="400" align="right">
+    <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif">
 
 </div>
 
