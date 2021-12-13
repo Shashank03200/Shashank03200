@@ -1,28 +1,19 @@
 <h4> Hi there 👋 </h4>
 <h2>I am Shashank Mishra</h2>
 
-<p>I am a full stack developer who also likes to solve problems</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+full+stack+developer;I+am+a+programmer;I+am+a+gamer)](https://git.io/typing-svg)
 
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
-![](https://www.codechef.com/users/sm_03200/)
+<img align="right" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/media/dd58a7952729b7d79800d686d19d1bf2.gif" width="400" >
 
-<div style="display:flex">
-    <ul>
-        <li>🔭 I’m currently working on React Instagram Clone</li>
-        <li>🌱 I’m currently learning React.js</li>
-        <li>👯 I’m looking to collaborate on Web Dev Projects</li>
-        <li>🤔 I’m looking for help with DSA</li>
-        <li>💬 Ask me about Backend Web Development</li>
-        <li>📫 How to reach me: shashank032000@gmail.com</li>
-        <li>⚡ Fun fact: I talk to myself a lot</li>
-        <li>💡 Find my projects at: https://portolfio-shashank.vercel.app/ </li>
-    </ul>
-   
-   <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="400" align="right">
-    
-</div>
-
-</div>
+- 🔭 I’m currently working on React Instagram Clone
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on Web Dev Projects
+- 🤔 I’m looking for help with DSA
+- 💬 Ask me about Backend Web Development
+- 📫 How to reach me: shashank032000@gmail.com
+- ⚡ Fun fact: I talk to myself a lot
+- 💡 Find my projects at: https://portolfio-shashank.vercel.app/
 
 <hr>
 
