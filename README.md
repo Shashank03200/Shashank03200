@@ -17,10 +17,10 @@
         <li>⚡ Fun fact: I talk to myself a lot</li>
         <li>💡 Find my projects at: https://portolfio-shashank.vercel.app/ </li>
     </ul>
+    
     <div>
-    <div>
-        <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="300">
-        </div>
+        <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="400">
+     </div>
 
 </div>
 
