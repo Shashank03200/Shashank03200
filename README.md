@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+full+stack+developer;I+am+a+programmer;I+am+a+gamer)](https://git.io/typing-svg)
 
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
-<img align="right" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/media/dd58a7952729b7d79800d686d19d1bf2.gif" width="400" >
+<img align="right" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/media/dd58a7952729b7d79800d686d19d1bf2.gif" width="400" height="200 >
 
 - 🔭 I’m currently working on React Instagram Clone
 - 🌱 I’m currently learning React.js
