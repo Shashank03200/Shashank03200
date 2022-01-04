@@ -13,7 +13,7 @@
 - 💬 Ask me about Backend Web Development
 - 📫 How to reach me: shashank032000@gmail.com
 - ⚡ Fun fact: I talk to myself a lot
-- 💡 Find my projects at: https://portolfio-shashank.vercel.app/
+- 💡 Find my portfolio at: https://portfolio-shashank.vercel.app/
 
 <hr>
 
