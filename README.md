@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/Shashank03200)
 <img align="right" src="https://cdn.dribbble.com/users/32897/screenshots/3564812/media/dd58a7952729b7d79800d686d19d1bf2.gif" width="350" height="250" >
 
-- 🔭 I’m currently working on React Instagram Clone
+- 🔭 I’m currently working on Full stack app development.
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 🤔 I’m looking for help with DSA
